@@ -55,7 +55,7 @@ A summary table is generated for all tracked exercises with the following metric
 | **Corr**      | Pearson correlation between workout date and estimated 1RM (how linearly strength increases) |
 | **pValue**    | Statistical significance of the correlation (confidence in improvement trend) |
 | **Avg % Inc** | Average session-over-session percent increase in 1RM |
-| **1RM Diff**  | Total estimated 1RM improvement from first to last session |
+| **1RM Diff**  | Total 1RM improvement from first to last session |
 
 #### 📋 Sample Output
 
